@@ -8,8 +8,8 @@ Ce projet simule la navigation d'un bateau à voile, incluant la physique de bas
 
 ## Capture d'écran
 
-![Gameplay Screenshot](placeholder_screenshot.png)
-*(Remplacez `placeholder_screenshot.png` par le nom de votre fichier de capture d'écran réel dans le référentiel)*
+![Gameplay Screenshot](screenshot.png)
+
 
 ## Fonctionnalités
 
