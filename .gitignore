@@ -1,0 +1,9 @@
+# Voile
+# https://github.com/voile-lang/voile
+
+# Compiled files
+venv/*
+
+# OS generated files
+.DS_Store
+.localized
